@@ -1,0 +1,116 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+header {
+  position: relative;
+}
+
+#fullscreen-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+h1 {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 95px;
+  font-family: 'Dela Gothic One', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+h2 {
+  position: absolute;
+  top: 69%;
+  left: 27%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 30px; /* Adjust the font size as desired */
+  font-family: 'Dela Gothic One', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+h3 {
+  position: absolute;
+  top: 83%;
+  left: 30%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 30px; /* Adjust the font size as desired */
+  font-family: 'Dela Gothic One', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+h4 {
+  position: absolute;
+  top: 88%;
+  left: 0%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 18px; /* Adjust the font size as desired */
+  font-family: 'Dela Gothic One', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  opacity: 25%;
+  line-height:1.0;
+}
+h5{
+  position: absolute;
+  top: 88%;
+  left: 26.5%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 16px; /* Adjust the font size as desired */
+  font-family: 'Dela Gothic One', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  opacity: 27%;
+  line-height:1.0;
+}
+h6{
+  position: absolute;
+  top: 86%;
+  left: 36.5%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  font-family: 'Dela Gothic One', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  opacity: 25%;
+  line-height:1.0;
+}
+h7{
+  position: absolute;
+  top: 93%;
+  left: 0%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  font-family: 'Dela Gothic One', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  opacity: 25%;
+  line-height:1.0;
+}
+h8{
+  position: absolute;
+  top:77%;
+  left:29%;
+  transform: translateX(-50%, -50%);
+  color: white;
+  font-size: 25px;
+  font-family: 'Dela Gothic One', cursive;
+  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  opacity: 60%;
+  line-height:.5;
+}
